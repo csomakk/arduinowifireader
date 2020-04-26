@@ -2,8 +2,8 @@
 #include <WiFi101.h>
 #include "arduino_secrets.h" 
 
-char ssid[] = "CsMi";
-char pass[] = "0123456789";
+char ssid[] = "WifiName";
+char pass[] = "000000000";
 int keyIndex = 0;
 
 int status = WL_IDLE_STATUS;
